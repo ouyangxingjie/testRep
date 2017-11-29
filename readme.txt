@@ -3,6 +3,6 @@ public class Test{
 		System.out.print("hello world!");
 		System.out.print("my name is ouyangxingjie");
 		System.out.print("good bye!");
-		System.out.print("~~!");
+		System.out.print("see you again!");
 	}
 }
