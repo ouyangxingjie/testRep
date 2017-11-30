@@ -6,9 +6,3 @@ public class Test{
 		System.out.print("see you again!");
 	}
 }
-
-3132131231
-are u ok!?
-dsd
-ddddd
-fix bug
